@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Peugeot Tuning Club">
+  <rect width="48" height="48" rx="9" fill="#14181F"/>
+  <path d="M9 30h30l-3.5-9a5 5 0 0 0-4.7-3.3H17.2A5 5 0 0 0 12.5 21z" fill="#FF6B2C"/>
+  <rect x="7" y="30" width="34" height="6" rx="3" fill="#2FA8D8"/>
+  <circle cx="16" cy="37" r="4" fill="#E8EAEE"/><circle cx="32" cy="37" r="4" fill="#E8EAEE"/>
+  <circle cx="16" cy="37" r="1.6" fill="#14181F"/><circle cx="32" cy="37" r="1.6" fill="#14181F"/>
+  <path d="M16 21h16l2 6H14z" fill="#3A4250"/>
+</svg>

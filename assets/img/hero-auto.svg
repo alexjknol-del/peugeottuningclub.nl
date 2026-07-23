@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" role="img" aria-label="Illustratie van een verlaagde hatchback">
+<title>Verlaagde hatchback</title>
+<rect x="0" y="0" width="500" height="340" rx="20" fill="#1B212B"/>
+<circle cx="410" cy="80" r="52" fill="#FF6B2C" opacity=".18"/>
+<circle cx="90" cy="70" r="30" fill="#2FA8D8" opacity=".2"/>
+<g stroke="#2B3442" stroke-width="2"><line x1="30" y1="250" x2="470" y2="250"/><line x1="30" y1="266" x2="470" y2="266"/></g>
+<path d="M108 232h286l-14-52c-4-14-17-24-32-24H176c-14 0-27 9-32 22z" fill="#E8EAEE"/>
+<path d="M170 168h60v-26h-38c-9 0-16 6-19 14z" fill="#3FA9DE"/>
+<path d="M244 168h72l-12-20c-3-4-8-6-13-6h-47z" fill="#3FA9DE"/>
+<rect x="96" y="228" width="310" height="16" rx="8" fill="#FF6B2C"/>
+<rect x="106" y="196" width="14" height="10" rx="3" fill="#FFD36B"/>
+<rect x="384" y="196" width="14" height="10" rx="3" fill="#E4573D"/>
+<g><circle cx="168" cy="244" r="30" fill="#12161D"/><circle cx="168" cy="244" r="17" fill="#9AA6B6"/><circle cx="168" cy="244" r="7" fill="#5D6A7B"/></g>
+<g><circle cx="342" cy="244" r="30" fill="#12161D"/><circle cx="342" cy="244" r="17" fill="#9AA6B6"/><circle cx="342" cy="244" r="7" fill="#5D6A7B"/></g>
+<g stroke="#FF6B2C" stroke-width="5" stroke-linecap="round" opacity=".85">
+  <line x1="40" y1="188" x2="86" y2="188"/><line x1="26" y1="206" x2="80" y2="206"/><line x1="48" y1="224" x2="86" y2="224"/>
+</g>
+<rect x="404" y="230" width="30" height="9" rx="4" fill="#7C8797"/>
+</svg>
